@@ -1,2 +1,1 @@
-# team19
-SKYCC F팀
+# SKYCC F팀
